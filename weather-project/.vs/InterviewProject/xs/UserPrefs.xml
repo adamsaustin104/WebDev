@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{059E09FE-743E-49F8-9E26-2640A4DD872A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewProject.Web/Startup.cs">
+    <Files>
+      <File FileName="InterviewProject.Web/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="InterviewProject.Web/ClientApp/src/components/Weather.js" />
+      <File FileName="InterviewProject.Web/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterviewProject" expanded="True">
+            <Node name="InterviewProject" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True">
+                  <Node name="index.html" selected="True" />
+                </Node>
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InterviewProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
